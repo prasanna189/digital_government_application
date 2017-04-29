@@ -1,0 +1,2 @@
+# digital_government_application
+This Web application brings all basic needs and services that are required to the citizens under one roof so that the citizen need not visit different sites for his/her orders or bookings. This application deals with two categories CITIZEN and SENIOR CITIZEN who have different requirements and specifications. Studying on their needs and specifications we brought together the basic services for each of the category respectively.
